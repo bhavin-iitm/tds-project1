@@ -7,3 +7,7 @@
 1. Scraped Data (a. users.csv and b. repositories.csv)
 2. Python code for scraping (TDS-Proj1-Scrape.ipynb). This file contains 2 sections. 1st section contains data scraping using the bare APIs to understand the API design and its low level details. 2nd section contains data scraping using PyGithub library to understand the ease it brings after against bare API scraping.
 3. Python code for Quiz analysis (TDS-Proj1-Quiz-Questions.ipynb). This file contains the questions along with the code to find out the answers.
+
+# Cool references about Github APIs
+1. https://docs.github.com/en/rest/using-the-rest-api/best-practices-for-using-the-rest-api?apiVersion=2022-11-28
+2. https://docs.github.com/en/webhooks/about-webhooks
